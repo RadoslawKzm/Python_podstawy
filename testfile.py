@@ -57,7 +57,13 @@ w google 'python3 random'
 funkcja ktora generuje losowy int w podanym zakresie (od, do)
 
 2. policz ile razy wystepuje dana liczba
-{0:25, 1:26, 2:32, (...)}
+{0:25, 1:26, 2:32, (...), 10:26}
+
+3. wypisz do pliku wyniki
+liczba > 0, wystapila > 26
+liczba > 1, wystapila > 31
+(...)
+liczba > 10, wystapila > 25
 
 """
 
